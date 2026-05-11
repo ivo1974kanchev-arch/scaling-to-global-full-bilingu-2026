@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scaling-to-global-full-bilingual-support-added-2hew37qxb.vercel.app/sitemap.xml
